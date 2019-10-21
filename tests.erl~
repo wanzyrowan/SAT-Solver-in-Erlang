@@ -1,0 +1,3 @@
+%Author -> Evaldas Karpys
+-module(tests).
+-compile(export_all).
